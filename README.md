@@ -1,12 +1,11 @@
 # SpringbootSecurityJPAEventManager
 
-Working Project UIs Screen Shots: https://github.com/userfor544/SpringbootSecurityJPAEventManager/issues/1
+- Working Project UIs Screen Shots: https://github.com/userfor544/SpringbootSecurityJPAEventManager/issues/1
 
-Zipped Version of the project: https://github.com/userfor544/SpringbootSecurityJPAEventManager/blob/master/spring.zip
+- Zipped Version of the project: https://github.com/userfor544/SpringbootSecurityJPAEventManager/blob/master/spring.zip
 ( can be downloaded > Unzip > imported into IDE as Maven Project and follow the steps described below to launch it)
 
-GitHub Repository:
-https://github.com/userfor544/SpringbootSecurityJPAEventManager
+- GitHub Repository: https://github.com/userfor544/SpringbootSecurityJPAEventManager
 
 Step to run this project:
 1. Clone this repo above into your local machine
