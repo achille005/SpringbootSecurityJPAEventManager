@@ -7,7 +7,8 @@
 
 - GitHub Repository: https://github.com/userfor544/SpringbootSecurityJPAEventManager
 
-Step to run this project:
+Steps to run this project:
+-------------------------
 1. Clone this repo above into your local machine
 2. Import as Maven project into your IDE workspace
 3. Install MySQL (5.5) Server locally
