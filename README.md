@@ -5,7 +5,6 @@
 - Zipped Version of the project: https://github.com/userfor544/SpringbootSecurityJPAEventManager/blob/master/spring.zip
 ( can be downloaded > Unzip > imported into IDE as Maven Project and follow the steps described below to launch it)
 
-- GitHub Repository: https://github.com/userfor544/SpringbootSecurityJPAEventManager
 
 Steps to run this project:
 -------------------------
